@@ -16,6 +16,3 @@ JDK 14 new features
 
     2. JEP 361: Switch Expressions
         see the Java12Experiments project for this....in version 14 they officiated the feature
-
-
-TODO Create git repo
